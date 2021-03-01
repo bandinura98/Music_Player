@@ -7,6 +7,15 @@ javafx and swing togeather project
 
 it plays mp3 and mp4 with using design patterns
 
+Requirements:
+
+java mysql connector
+jlayer1.0
+
+configuration:
+
+edit the /src/Controller/DataBase/SQLConnection.java for database usage
+
 Contributers:
 
 https://github.com/bandinura98
