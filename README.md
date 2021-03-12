@@ -15,13 +15,3 @@ jlayer1.0
 configuration:
 
 edit the /src/Controller/DataBase/SQLConnection.java for database usage
-
-Contributers:
-
-https://github.com/bandinura98
-
-
-https://github.com/ddogru
-
-
-https://github.com/HboSoftware
